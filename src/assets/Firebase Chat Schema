@@ -1,0 +1,69 @@
+- chatting
+    -chatID --> (uid1_uid2)
+        - allChat
+            - dateChat --> (2020-05-08)
+                - chat1
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+                - chat2
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+            - dateChat --> (2020-05-09)
+                - chat1
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+                - chat2
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+    -chatID --> (uid1_uid2)
+        - allChat
+            - dateChat --> (2020-05-08)
+                - chat1
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+                - chat2
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+            - dateChat --> (2020-05-08)
+                - chat1
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+                - chat2
+                    - sentBy
+                    - chatDate
+                    - chatTime
+                    - chatContent
+
+- messages
+    - uid --> prawito
+        - chatID
+            - lastChat
+            - lastChatDate
+            - uidPartner
+        - chatID
+            - lastChat
+            - lastChatDate
+            - uidPartner
+    - uid --> azzamy
+        - chatID
+            - lastChat
+            - lastChatDate
+            - uidPartner
+        - chatID
+            - lastChat
+            - lastChatDate
+            - uidPartner
